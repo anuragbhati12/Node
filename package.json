@@ -1,0 +1,22 @@
+{
+  "name": "bhati",
+  "version": "1.0.0",
+  "description": "Creating First Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragbhati12/NodeApis.git"
+  },
+  "keywords": [
+    "Bhati"
+  ],
+  "author": "Anurag bhati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragbhati12/NodeApis/issues"
+  },
+  "homepage": "https://github.com/anuragbhati12/NodeApis#readme"
+}
